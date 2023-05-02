@@ -1,4 +1,3 @@
-import "./styles.css";
 import MyModal from "./lib/Modal";
 
 export default function App() {

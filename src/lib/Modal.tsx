@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../styles.css";
+import "./styles.css";
 
 const MyModal = ({ trigger, children }: { trigger: any, children: any }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
