@@ -1,5 +1,5 @@
 import "./styles.css";
-import MyModal from "./Modal";
+import MyModal from "./lib/Modal";
 
 export default function App() {
   return (
