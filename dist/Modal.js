@@ -11,7 +11,7 @@ var __assign = (this && this.__assign) || function () {
 };
 import { jsx as _jsx, Fragment as _Fragment, jsxs as _jsxs } from "react/jsx-runtime";
 import React, { useState } from "react";
-import "../styles.css";
+import "./styles.css";
 var MyModal = function (_a) {
     var trigger = _a.trigger, children = _a.children;
     var _b = useState(false), isModalOpen = _b[0], setIsModalOpen = _b[1];
